@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haakon H
-- 👀 I’m interested in computers from building the hardware to coding the networks, I want to learn all of it.
+- 👀 I’m interested in computers from growing up around them. It's always been something that I love to learn about.
 - 🌱 I’m currently learning Computer science at Iowa State University with some side projects.
 - 📫 How to reach me at hjhauswirth@gmail.com
 
